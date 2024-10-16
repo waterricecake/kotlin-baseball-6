@@ -1,7 +1,7 @@
 package baseball
 
 import baseball.controller.GameController
-import baseball.service.RandomNumberCreator
+import baseball.util.RandomNumberCreator
 import baseball.view.View
 
 fun main() {

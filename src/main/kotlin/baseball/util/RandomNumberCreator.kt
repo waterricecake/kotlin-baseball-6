@@ -1,4 +1,4 @@
-package baseball.service
+package baseball.util
 
 import camp.nextstep.edu.missionutils.Randoms
 import kotlin.collections.mutableListOf

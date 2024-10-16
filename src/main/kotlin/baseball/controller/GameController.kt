@@ -2,7 +2,7 @@ package baseball.controller
 
 import baseball.domain.BaseBallGame
 import baseball.domain.Result
-import baseball.service.RandomNumberCreator
+import baseball.util.RandomNumberCreator
 import baseball.view.View
 
 class GameController(val view: View, val randomNumberCreator: RandomNumberCreator) {
